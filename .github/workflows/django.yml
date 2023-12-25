@@ -36,7 +36,7 @@ jobs:
         TIME_ZONE: Europe/Belgium
         CACHE_KEY_PREFIX: Halo
       run: |
-        python manage.py test
+        python CIpipeline/manage.py test
 
 
      
