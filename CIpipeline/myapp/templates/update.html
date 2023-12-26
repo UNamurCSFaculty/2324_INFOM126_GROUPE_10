@@ -20,15 +20,13 @@
     </head>
     <body>
         <div style="text-align: center">
-    <h1>Ajouter un message</h1>
+    <h1>modifier  le message</h1>
         </div>
-<form method="post" action="{% url 'add_message' %}">
+<form method="post" action="{% url 'modifier_message' message.id %}">
   {% csrf_token %}
   {{ form.as_p }}
-  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp<button type="submit" class="btn btn-info" >Ajouter</button>
+  <button type="submit" class="btn btn-info">Modifier</button>
 </form>
-<div style="text-align: center">
-<h6><a href="{% url 'index' %}">Retour à la liste des messages</a></h6>
-</div>
+<a href="{% url 'index' %}">Retour à la liste des messages</a>
 </body>
 </html>
