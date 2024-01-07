@@ -9,12 +9,11 @@ This Django app allows users to add, display, edit, and delete messages.
 - django
 
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/yourusername/django-message-app.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Apply migrations: `python manage.py migrate`
-4. Run the development server: `python manage.py runserver`
+## Installation
+1. Clone the repository.`git clone `
+2. Create a virtual environment and install dependencies: `pip install -r requirements.txt`.
+3. Apply migrations: `python manage.py migrate`.
+4. Run the development server: `python manage.py runserver`.
 
 ## Usage
 1. Access the site at `http://localhost:8000`.
