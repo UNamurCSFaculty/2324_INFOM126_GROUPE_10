@@ -1,29 +1,64 @@
-# Django Message App
+# PipeMessage Django App
 
-This Django app allows users to add, display, edit, and delete messages.
+PipeMessage is a Django app designed for adding, displaying, and managing messages. It provides a user-friendly interface for users to leave messages and conveniently view and manage them.
 
 ## Prerequisites
 
-- Python (3.x)
+Ensure that you have the following prerequisites before getting started with the project:
+
+- Python (>=3.x)
 - Docker
-- django
+- [Other prerequisites]
 
+## Getting Started
 
-## Installation
-1. Clone the repository.`git clone `
-2. Create a virtual environment and install dependencies: `pip install -r requirements.txt`.
-3. Apply migrations: `python manage.py migrate`.
-4. Run the development server: `python manage.py runserver`.
+1. **Clone the repository:**
 
+    ```
+    git clone https://github.com/your-username/PipeMessage.git
+    ```
+
+2. **Create a virtual environment and install dependencies:**
+
+    ```
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    pip install -r requirements.txt
+    ```
+
+3. **Run the app:**
+
+    ```
+    python manage.py runserver
+    ```
+
+## Running Tests
+
+```
+python manage.py test
+```
 ## Usage
-1. Access the site at `http://localhost:8000`.
-2. Add messages using the provided form.
-3. View, edit, or delete messages from the message history.
+Access the site at http://localhost:8000.
+Add messages using the provided form.
+View, edit, or delete messages from the message history.
+## Docker
+To run the app using Docker:
+
+
+```docker-compose up --build
+ ```
+Visit http://localhost:8000 in your browser.
 
 ## Contributing
+Please see the CONTRIBUTING.md file for details on how to contribute to this project.
 
-Read our [Contributor Guidelines](CONTRIBUTING.md) before getting started.
+## Code of Conduct
+Please read the CODE_OF_CONDUCT.md for details on our code of conduct.
 
-## License
+## Contact
+Communication: You can contact us at rosnyanderson@student.unamur.be.
+## Reporting Issues
+If you encounter any issues or have suggestions for improvements, please open an issue in the issue tracker.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
