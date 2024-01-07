@@ -25,7 +25,7 @@ Example: `john-doe/feature/new-dashboard`
 ## Merging Branches
 
 - Branches can be merged into the `main` branch after undergoing a thorough review.
-- Pull requests must receive approval from at least one team member. Here is a list that provides the members of the repository:**Members:**
+- Pull requests must receive approval from at least one team member. Here is a list that provides the members of the repository:
 
 1. [kouanga](https://github.com/kouanga)
 2. [abarbieux](https://github.com/abarbieux)
