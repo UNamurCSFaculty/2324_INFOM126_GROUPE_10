@@ -2,6 +2,13 @@
 
 This Django app allows users to add, display, edit, and delete messages.
 
+## Prerequisites
+
+- Python (3.x)
+- Docker
+- django
+
+
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/yourusername/django-message-app.git`
