@@ -30,7 +30,7 @@ Example: `john-doe/feature/new-dashboard`
 1. [kouanga](https://github.com/kouanga)
 2. [abarbieux](https://github.com/abarbieux)
 3. [paul85000](https://github.com/paul85000)
-   ...
+   
 
   
 - Ensure that your code is well-documented and adheres to our coding standards.
