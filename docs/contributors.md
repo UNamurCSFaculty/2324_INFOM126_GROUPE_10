@@ -48,7 +48,7 @@ Example: `john-doe/feature/new-dashboard`
 
 ## Release Policy
 
-- Releases follow semantic versioning (MAJOR.MINOR.PATCH).
+- Releases follow [semantic versioning (MAJOR.MINOR.PATCH)](https://semver.org/).
 - Create a release branch for each major release: `release/v1.0.0`.
 - After a release branch is created, only bug fixes should be merged into it.
 - New features and non-critical changes should be targeted for the next major release.
