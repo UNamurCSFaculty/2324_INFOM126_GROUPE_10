@@ -14,3 +14,5 @@ Examples of behavior that contributes to creating a positive environment include
 
 ## Enforcement Responsibilities
 Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior and will take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+## Attribution
+This Code of Conduct is adapted from the [latest Contributor Covenant](https://github.com/EthicalSource/contributor_covenant/blob/release/CODE_OF_CONDUCT.md).
