@@ -35,7 +35,7 @@ Example: `john-doe/feature/new-dashboard`
 
 ## Code Conventions
 
-- Adhere to the PEP 8 style guide for Python code.
+- Adhere to [the PEP 8 style guide](https://peps.python.org/pep-0008/) for Python code.
 - Ensure your code is well-documented and includes comments where necessary.
 - Write meaningful variable and function names.
 
