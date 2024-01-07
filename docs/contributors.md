@@ -28,8 +28,8 @@ Example: `john-doe/feature/new-dashboard`
 - Pull requests must receive approval from at least one team member. Here is a list that provides the members of the repository:**Members:**
 
 1. [kouanga](https://github.com/kouanga)
-2. [@username2](https://github.com/username2)
-3. [@username3](https://github.com/username3)
+2. [abarbieux](https://github.com/abarbieux)
+3. [paul85000](https://github.com/paul85000)
    ...
 
   
