@@ -15,7 +15,7 @@ Ensure that you have the following prerequisites before getting started with the
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/your-username/PipeMessage.git
+    git clone https://github.com/UNamurCSFaculty/2324_INFOM126_GROUPE_10.git
     ```
 
 2. **Create a virtual environment and install dependencies:**
@@ -25,22 +25,11 @@ Ensure that you have the following prerequisites before getting started with the
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     pip install -r requirements.txt
     ```
-
-3. **Run the app:**
-
-    ```
-    python manage.py runserver
-    ```
-
 ## Running Tests
 
 ```
 python manage.py test
 ```
-## Usage
-Access the site at http://localhost:8000.
-- Add messages using the provided form.
-- View, edit, or delete messages from the message history.
 ## Docker
 To run the app using Docker:
 
@@ -50,8 +39,21 @@ docker-compose up --build
  ```
 Visit http://localhost:8000 in your browser.
 
+3. **Run the app:**
+
+    ```
+    cd CIpipeline
+    python manage.py runserver
+    ```
+
+
+## Usage
+Access the site at http://localhost:8000.
+- Add messages using the provided form.
+- View, edit, or delete messages from the message history.
+
 ## Contributing
-Please see the CONTRIBUTING.md file for details on how to contribute to this project.
+Please see the [CONTRIBUTING.md] file for details on how to contribute to this project.
 
 ## Code of Conduct
 Please read the [CODE_OF_CONDUCT.md](https://github.com/UNamurCSFaculty/2324_INFOM126_GROUPE_10/blob/main/CODE_OF_CONDUCT.md) for details on our code of conduct.
