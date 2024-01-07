@@ -10,10 +10,9 @@ This Django app allows users to add, display, edit, and delete messages.
 4. Run the development server: `python manage.py runserver`
 
 ## Usage
-
-- Add a message through the website.
-- View message history.
-- Modify or delete a message as needed.
+1. Access the site at `http://localhost:8000`.
+2. Add messages using the provided form.
+3. View, edit, or delete messages from the message history.
 
 ## Contributing
 
