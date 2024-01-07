@@ -45,7 +45,8 @@ View, edit, or delete messages from the message history.
 To run the app using Docker:
 
 
-```docker-compose up --build
+```
+docker-compose up --build
  ```
 Visit http://localhost:8000 in your browser.
 
@@ -58,7 +59,7 @@ Please read the CODE_OF_CONDUCT.md for details on our code of conduct.
 ## Contact
 Communication: You can contact us at rosnyanderson@student.unamur.be.
 ## Reporting Issues
-If you encounter any issues or have suggestions for improvements, please open an issue in the issue tracker.
+If you encounter any issues or have suggestions for improvements, please open an issue in the [issue tracker](https://github.com/UNamurCSFaculty/2324_INFOM126_GROUPE_10/issues).
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/UNamurCSFaculty/2324_INFOM126_GROUPE_10/blob/main/LICENSE) file for details.
