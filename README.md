@@ -8,7 +8,7 @@ Ensure that you have the following prerequisites before getting started with the
 
 - Python (>=3.x)
 - Docker
-- [Other prerequisites]
+- django
 
 ## Getting Started
 
