@@ -39,8 +39,8 @@ python manage.py test
 ```
 ## Usage
 Access the site at http://localhost:8000.
-Add messages using the provided form.
-View, edit, or delete messages from the message history.
+- Add messages using the provided form.
+- View, edit, or delete messages from the message history.
 ## Docker
 To run the app using Docker:
 
@@ -54,7 +54,7 @@ Visit http://localhost:8000 in your browser.
 Please see the CONTRIBUTING.md file for details on how to contribute to this project.
 
 ## Code of Conduct
-Please read the CODE_OF_CONDUCT.md for details on our code of conduct.
+Please read the [CODE_OF_CONDUCT.md](https://github.com/UNamurCSFaculty/2324_INFOM126_GROUPE_10/blob/main/CODE_OF_CONDUCT.md) for details on our code of conduct.
 
 ## Contact
 Communication: You can contact us at rosnyanderson@student.unamur.be.
