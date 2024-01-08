@@ -6,9 +6,9 @@ PipeMessage is a Django app designed for adding, displaying, and managing messag
 
 Ensure that you have the following prerequisites before getting started with the project:
 
-- Python (>=3.x)
-- Docker
-- django
+- [Python (>=3.x)](https://www.python.org/downloads/)
+- [Docker](https://www.docker.com/)
+- [django](https://www.djangoproject.com/)
 
 ## Getting Started
 
