@@ -31,11 +31,11 @@ Ensure that you have the following prerequisites before getting started with the
 python manage.py test
 ```
 ## Docker
-To run the app using Docker:
+To run the app using Docker (you have to install Docker on your compuiter before):
 
 
 ```
-docker-compose up --build
+docker build CIpipeline
  ```
 Visit http://localhost:8000 in your browser.
 
