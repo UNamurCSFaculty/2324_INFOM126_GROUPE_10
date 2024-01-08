@@ -31,7 +31,7 @@ Ensure that you have the following prerequisites before getting started with the
 python manage.py test
 ```
 ## Docker
-To run the app using Docker (you have to install Docker on your compuiter before):
+To run the app using Docker (you have to install Docker on your computer before):
 
 
 ```
