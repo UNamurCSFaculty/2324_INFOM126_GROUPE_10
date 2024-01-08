@@ -53,7 +53,7 @@ Access the site at http://localhost:8000.
 - View, edit, or delete messages from the message history.
 
 ## Contributing
-Please see the [CONTRIBUTING.md] file for details on how to contribute to this project.
+Please see the [contributors.md](https://github.com/UNamurCSFaculty/2324_INFOM126_GROUPE_10/blob/main/docs/contributors.md) file for details on how to contribute to this project.
 
 ## Code of Conduct
 Please read the [CODE_OF_CONDUCT.md](https://github.com/UNamurCSFaculty/2324_INFOM126_GROUPE_10/blob/main/CODE_OF_CONDUCT.md) for details on our code of conduct.
